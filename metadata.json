@@ -1,0 +1,6 @@
+{
+  "name": "روزمرہ حساب کتاب - Daily Ledger & Bookkeeping",
+  "description": "ایک مکمل، جدید اور خوبصورت روزمرہ حساب کتاب ویب ایپ برائے آمدن، اخراجات، کیٹیگریز اور خودکار مالیاتی فارمولے بشمول فونٹس، سائز اور کلر تھیمز کی مکمل سیٹنگز۔",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
